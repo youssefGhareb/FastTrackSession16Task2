@@ -1,0 +1,16 @@
+body{
+    background-color: #212121;
+    h1 {
+      color: red;
+      text-align: center;
+      letter-spacing: 10px;
+      font-size: 50px;
+    }
+    .imgCont{
+        width: 500px;
+        margin: 300px auto 0 auto;
+        img{
+            width: 100%;
+        }
+    }
+}
